@@ -129,9 +129,6 @@
    :color color
    :margin-bottom 4})
 
-(def message-text
-  {:font-size 14})
-
 (def message-wrapper
   {:flex-direction  :row
    :flex-wrap       :wrap})
